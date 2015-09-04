@@ -2,7 +2,7 @@
     "name": "kafene/monolog-pdo-handler",
     "description": "PDO database logging handler for Monolog",
     "keywords": ["monolog", "logger", "pdo", "database"],
-    "homepage": "https://github.com/kafene/PdoHandler",
+    "homepage": "https://github.com/kafene/monolog-pdo-handler",
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.4.0",
